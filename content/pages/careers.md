@@ -18,7 +18,7 @@ sections:
     actions:
       - type: Button
         label: See open positions
-        url: /
+        url: '#positions'
         icon: arrowRight
         iconPosition: right
         style: primary
