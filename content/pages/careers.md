@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Section subtitle
+    subtitle: Collaboration at Its Best
     text: >
       Our team is dedicated to working together to bring you the best gaming
       experience. We believe in strong collaboration and open communication to
