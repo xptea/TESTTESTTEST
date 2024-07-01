@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: updates
 slug: /updates
 numOfPostsPerPage: 12
 enableSearch: true
