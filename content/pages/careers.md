@@ -45,8 +45,7 @@ sections:
       styles:
         self:
           textAlign: center
-    people:
-      - content/data/web.json
+    people: []
     actions: []
     variant: three-col-grid
     colors: bg-dark-fg-light
