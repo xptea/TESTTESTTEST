@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Unblock your team boost your time to production
+      text: Only Three Team Games
       color: text-neutral
     subtitle: Subtitle goes here
     text: >
