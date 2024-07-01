@@ -72,44 +72,5 @@
     "copyrightText": "Copyright @2024 OnlyThreeTeam Games\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer",
-    "title": "OnlyThreeTeam Games",
-    "secondaryLinks": {
-        "type": "FooterLinksGroup",
-        "title": "Links",
-        "links": [
-            {
-                "type": "Link",
-                "label": "Home",
-                "altText": "",
-                "url": "/",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "elementId": ""
-            },
-            {
-                "type": "Link",
-                "label": "Updates",
-                "altText": "",
-                "url": "/blog",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "elementId": ""
-            },
-            {
-                "type": "Link",
-                "label": "Contact",
-                "altText": "",
-                "url": "/contact",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "primary",
-                "elementId": ""
-            }
-        ]
-    }
+    "title": "OnlyThreeTeam Games"
 }
