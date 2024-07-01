@@ -13,7 +13,7 @@ sections:
       - type: Button
         label: Discord
         altText: ''
-        url: /
+        url: 'https://discord.gg/QgKHvt76Kb'
         showIcon: false
         icon: arrowRight
         iconPosition: right
