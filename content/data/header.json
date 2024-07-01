@@ -45,7 +45,7 @@
             "type": "Button"
         },
         {
-            "label": "Log in",
+            "label": "Group",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
