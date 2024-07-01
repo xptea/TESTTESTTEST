@@ -35,7 +35,7 @@ sections:
       elementId: ''
       styles:
         self:
-          borderRadius: medium
+          borderRadius: large
           padding:
             - pr-0
             - pl-52
