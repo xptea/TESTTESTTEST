@@ -39,6 +39,8 @@ sections:
       styles:
         self:
           borderRadius: medium
+          padding:
+            - pr-7
     badge:
       type: Badge
       label: This is a badge
