@@ -78,11 +78,7 @@ sections:
         self:
           textAlign: center
     subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: "Step into the ring and unleash your fury in Punching Simulator! \U0001F94A\U0001F4A5 Train your fists of steel, get stronger, and rise through the ranks to dominate other players! Smash through walls, take down opponents, and hone your skills in intense training sessions. Customize your fighter, earn epic rewards, and climb the leaderboards! \U0001F31F\n"
     actions: []
     media:
       type: VideoBlock
