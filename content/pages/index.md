@@ -152,8 +152,9 @@ sections:
 slug: /
 seo:
   type: Seo
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create
-  socialImage: /images/main-hero.jpg
+  metaTitle: Only Three Team Games - Home
+  metaDescription: Welcome to Only Three Team Games Website
+  socialImage: /images/ONLYTHREETEAM.png
   metaTags: []
+  addTitleSuffix: false
 ---
