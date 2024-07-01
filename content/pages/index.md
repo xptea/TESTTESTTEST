@@ -42,7 +42,7 @@ sections:
           padding:
             - pr-7
           margin:
-            - mr-10
+            - mr-0
             - ml-10
     badge:
       type: Badge
