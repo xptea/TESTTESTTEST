@@ -60,7 +60,7 @@
         "links": [
             {
                 "type": "Link",
-                "label": "About",
+                "label": "Home",
                 "altText": "",
                 "url": "/",
                 "showIcon": false,
