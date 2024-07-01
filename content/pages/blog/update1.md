@@ -11,6 +11,7 @@ colors: bg-dark-fg-light
 styles:
   self:
     flexDirection: col
+    textAlign: center
 author: content/data/web.json
 featuredImage:
   type: ImageBlock
