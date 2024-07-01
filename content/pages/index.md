@@ -73,7 +73,7 @@ sections:
     title:
       type: TitleBlock
       text: Grow your business 10x faster
-      color: text-dark
+      color: text-neutral
       styles:
         self:
           textAlign: center
