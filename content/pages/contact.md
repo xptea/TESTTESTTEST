@@ -37,7 +37,7 @@ sections:
             - UI/UX Engineer
             - Marketing
           isRequired: false
-          width: full
+          width: 1/2
         - type: TextareaFormControl
           name: message
           label: Message
