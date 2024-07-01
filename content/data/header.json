@@ -46,7 +46,7 @@
         },
         {
             "label": "Group",
-            "url": "/",
+            "url": "Group",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
