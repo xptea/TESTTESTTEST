@@ -92,7 +92,7 @@
         },
         {
             "type": "Link",
-            "label": "See Tutorials",
+            "label": "Updates",
             "altText": "",
             "url": "/blog",
             "showIcon": false,
