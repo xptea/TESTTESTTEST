@@ -54,7 +54,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Key Benefits
+      text: Devs
       color: text-dark
       styles:
         self:
