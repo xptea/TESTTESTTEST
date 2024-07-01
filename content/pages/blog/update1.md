@@ -12,6 +12,7 @@ styles:
   self:
     flexDirection: col
     textAlign: center
+    borderRadius: large
 author: content/data/web.json
 featuredImage:
   type: ImageBlock
