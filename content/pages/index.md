@@ -77,7 +77,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: This is a subtitle
+    subtitle: Updates every weekend
     text: "Step into the ring and unleash your fury in Punching Simulator! \U0001F94A\U0001F4A5 Train your fists of steel, get stronger, and rise through the ranks to dominate other players! Smash through walls, take down opponents, and hone your skills in intense training sessions. Customize your fighter, earn epic rewards, and climb the leaderboards! \U0001F31F\n"
     actions: []
     media:
