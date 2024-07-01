@@ -2,7 +2,6 @@
 type: PostLayout
 title: Update 2 SUMMER
 date: '2024-06-30'
-author: content/data/web.json
 excerpt: ''
 featuredImage:
   type: ImageBlock
