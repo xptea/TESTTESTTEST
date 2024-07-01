@@ -76,7 +76,16 @@ sections:
         text: |+
 
 
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: /contact
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-neutral-fg-dark
         styles:
           self:
