@@ -38,7 +38,9 @@ sections:
           borderRadius: large
           padding:
             - pr-0
-            - pl-52
+            - pl-0
+            - pt-0
+            - pb-0
           margin:
             - mr-0
             - ml-0
