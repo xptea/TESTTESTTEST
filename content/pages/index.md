@@ -102,7 +102,7 @@ sections:
           borderRadius: large
     badge:
       type: Badge
-      label: Key Benefits
+      label: Only Three Team Games
       color: text-neutral
       styles:
         self:
