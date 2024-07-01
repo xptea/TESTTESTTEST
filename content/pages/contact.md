@@ -35,7 +35,7 @@ sections:
           options:
             - Lua-U Engineer
             - UI/UX Engineer
-            - ''
+            - Marketing
           isRequired: false
           width: full
         - type: TextareaFormControl
