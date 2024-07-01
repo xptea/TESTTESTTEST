@@ -70,7 +70,7 @@
         }
     ],
     "copyrightText": "Copyright @2024 OnlyThreeTeam Games\n",
-    "colors": "bg-neutral-fg-dark",
+    "colors": "bg-dark-fg-light",
     "type": "Footer",
     "title": "OnlyThreeTeam Games",
     "secondaryLinks": {
