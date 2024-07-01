@@ -12,9 +12,7 @@ topSections:
       styles:
         self:
           textAlign: center
-    posts:
-      - content/pages/blog/update1.md
-      - content/pages/blog/update2.md
+    posts: []
     showThumbnail: true
     showExcerpt: true
     showDate: true
