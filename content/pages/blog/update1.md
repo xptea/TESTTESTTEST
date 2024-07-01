@@ -2,9 +2,7 @@
 type: PostLayout
 title: Update 1
 date: '2024-06-08'
-excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+excerpt: ''
 bottomSections: []
 slug: Update1
 isFeatured: false
