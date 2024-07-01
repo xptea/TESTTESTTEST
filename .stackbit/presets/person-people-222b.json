@@ -1,0 +1,59 @@
+{
+    "model": "Person",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "people",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "people"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "_filePath_slug": "web",
+                "name": "WEB",
+                "role": "Manager",
+                "bio": null,
+                "image": {
+                    "$$type": "ImageBlock",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/ONLYTHREETEAM.png",
+                        "$$type": "__asset_model"
+                    },
+                    "altText": "Web",
+                    "elementId": null,
+                    "styles": {
+                        "self": {
+                            "borderRadius": "medium",
+                            "margin": [
+                                "mb-8"
+                            ]
+                        }
+                    }
+                },
+                "colors": "bg-light-fg-dark",
+                "elementId": null,
+                "styles": {
+                    "self": {
+                        "padding": [
+                            "pt-6",
+                            "pb-6",
+                            "pl-6",
+                            "pr-6"
+                        ],
+                        "textAlign": "center",
+                        "borderColor": "border-neutral",
+                        "borderStyle": "solid",
+                        "borderWidth": 0,
+                        "borderRadius": "large",
+                        "justifyContent": "center"
+                    }
+                }
+            },
+            "thumbnail": "images/person-people-222b.png"
+        }
+    ]
+}
