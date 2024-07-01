@@ -1,17 +1,17 @@
 {
-    "logo": {
-        "url": "/images/logo-dark.svg",
-        "altText": "Logo dark",
-        "styles": {
-            "self": {
-                "margin": [
-                    "mr-3"
-                ]
-            }
-        },
-        "type": "ImageBlock"
-    },
-    "primaryLinks": [],
+    "primaryLinks": [
+        {
+            "type": "Link",
+            "label": "See Tutorials",
+            "altText": "",
+            "url": "/",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
+        }
+    ],
     "secondaryLinks": [
         {
             "label": "Sign up",
@@ -31,7 +31,8 @@
             "type": "Button"
         }
     ],
-    "variant": "logo-left-primary-nav-centered",
-    "colors": "bg-light-fg-dark",
-    "type": "Header"
+    "variant": "logo-centered-primary-nav-left",
+    "colors": "bg-dark-fg-light",
+    "type": "Header",
+    "title": "Only Three Team Games"
 }
