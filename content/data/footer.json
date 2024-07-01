@@ -100,6 +100,17 @@
             "iconPosition": "right",
             "style": "secondary",
             "elementId": ""
+        },
+        {
+            "type": "Link",
+            "label": "See Tutorials",
+            "altText": "",
+            "url": "/contact",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
         }
     ],
     "copyrightText": "Copyright @2024 OnlyThreeTeam Games\n",
