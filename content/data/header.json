@@ -41,7 +41,7 @@
             "url": "https://discord.gg/QgKHvt76Kb",
             "icon": "arrowRight",
             "iconPosition": "right",
-            "style": "primary",
+            "style": "secondary",
             "type": "Button"
         },
         {
