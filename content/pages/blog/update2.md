@@ -16,7 +16,7 @@ bottomSections: []
 slug: update2
 isFeatured: false
 isDraft: false
-colors: bg-dark-fg-light
+colors: bg-light-fg-dark
 styles:
   self:
     flexDirection: col
