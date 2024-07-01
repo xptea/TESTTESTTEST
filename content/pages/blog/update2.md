@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Update 1
+title: Update 2 SUMMER
 date: '2024-06-30'
 author: content/data/web.json
 excerpt: ''
