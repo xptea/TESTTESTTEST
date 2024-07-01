@@ -90,7 +90,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Button
-        label: Get started
+        label: PLAY
         altText: ''
         url: 'https://www.roblox.com/games/17661817975'
         showIcon: false
