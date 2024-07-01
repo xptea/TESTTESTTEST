@@ -74,7 +74,7 @@ sections:
         title: Lua-U Engineer
         subtitle: 'Engineering '
         text: |+
-          Contact for more info
+
 
         actions: []
         colors: bg-neutral-fg-dark
