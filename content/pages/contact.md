@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Only Three Team
       color: text-neutral
-    subtitle: Section with a form subtitle
+    subtitle: EST
     text: |
       Feel free to reach out to us with any questions or feedback.
     actions: []
