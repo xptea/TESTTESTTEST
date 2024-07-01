@@ -31,15 +31,6 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
-      - type: Link
-        label: Careers
-        altText: ''
-        url: /careers
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
     media:
       type: ImageBlock
       url: /images/ONLYTHREETEAM.png
