@@ -39,7 +39,7 @@ sections:
     badge:
       type: Badge
       label: This is a badge
-      color: text-primary
+      color: text-neutral
     elementId: ''
     colors: bg-dark-fg-light
     styles:
