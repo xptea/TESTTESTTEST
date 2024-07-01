@@ -110,6 +110,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
             justifyContent: center
+        tagline: 'Engineering '
       - type: FeaturedItem
         title: Senior Software Engineer
         subtitle: Engineering
