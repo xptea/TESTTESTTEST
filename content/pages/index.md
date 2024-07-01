@@ -8,8 +8,7 @@ sections:
       text: Only Three Team Games
       color: text-neutral
     subtitle: Game Updates every weekend
-    text: |
-      Step into the ring and unleash your fury in Punching Simulator!
+    text: ''
     actions:
       - type: Button
         label: Get started
