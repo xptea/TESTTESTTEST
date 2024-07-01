@@ -27,9 +27,9 @@
             },
             {
                 "type": "Link",
-                "label": "Updates",
+                "label": "Contact",
                 "altText": "",
-                "url": "/blog",
+                "url": "/contact",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -38,9 +38,9 @@
             },
             {
                 "type": "Link",
-                "label": "Contact",
+                "label": "Updates",
                 "altText": "",
-                "url": "/contact",
+                "url": "/blog",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
