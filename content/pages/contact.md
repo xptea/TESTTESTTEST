@@ -35,7 +35,7 @@ sections:
           width: full
         - type: SelectFormControl
           name: company-size
-          label: Company size
+          label: P
           hideLabel: false
           defaultValue: Please choose...
           options: []
