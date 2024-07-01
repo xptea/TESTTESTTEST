@@ -71,7 +71,7 @@ sections:
     subtitle: careers
     items:
       - type: FeaturedItem
-        title: Lua-U Developer
+        title: Lua-U Engineer
         subtitle: Sales
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
