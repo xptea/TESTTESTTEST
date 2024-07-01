@@ -43,6 +43,7 @@ sections:
             - pr-7
           margin:
             - mr-10
+            - ml-10
     badge:
       type: Badge
       label: This is a badge
