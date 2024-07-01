@@ -43,7 +43,7 @@ sections:
     title:
       type: TitleBlock
       text: Meet the team
-      color: text-dark
+      color: text-neutral
       styles:
         self:
           textAlign: center
