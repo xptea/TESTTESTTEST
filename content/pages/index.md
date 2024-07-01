@@ -125,7 +125,7 @@ sections:
     title:
       type: TitleBlock
       text: Featured posts
-      color: text-dark
+      color: text-neutral
       styles:
         self:
           textAlign: center
