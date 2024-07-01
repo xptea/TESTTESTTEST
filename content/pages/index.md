@@ -23,7 +23,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Button
-        label: Get started
+        label: Careers
         altText: ''
         url: /careers
         showIcon: false
