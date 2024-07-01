@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Only Three Team Games
       color: text-neutral
-    subtitle: Join Our Team
+    subtitle: Game Updates every weekend
     text: >
       A Netlify website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
