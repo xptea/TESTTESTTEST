@@ -4,7 +4,7 @@
     "role": "Manager",
     "image": {
         "type": "ImageBlock",
-        "url": "/images/avatar1.svg",
+        "url": "/images/ONLYTHREETEAM.png",
         "altText": "First Last",
         "styles": {
             "self": {
