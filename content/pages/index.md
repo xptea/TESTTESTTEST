@@ -13,20 +13,20 @@ sections:
     subtitle: Game Updates every weekend
     text: ''
     actions:
-      - type: Link
-        label: Careers
-        altText: ''
-        url: /careers
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
       - type: Button
         label: Discord
         altText: ''
         url: 'https://discord.gg/QgKHvt76Kb'
         showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+      - type: Link
+        label: Careers
+        altText: ''
+        url: /careers
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: secondary
