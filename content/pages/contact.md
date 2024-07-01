@@ -27,17 +27,6 @@ sections:
           placeholder: Your email
           isRequired: true
           width: full
-        - type: SelectFormControl
-          name: company-size
-          label: Positions
-          hideLabel: false
-          defaultValue: Please choose...
-          options:
-            - Lua-U Engineer
-            - UI/UX Engineer
-            - Marketing
-          isRequired: false
-          width: full
         - type: TextareaFormControl
           name: message
           label: Message
