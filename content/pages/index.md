@@ -91,7 +91,7 @@ sections:
         elementId: ''
     badge:
       type: Badge
-      label: Only Three Team Games
+      label: Only Three Team
       color: text-neutral
       styles:
         self:
