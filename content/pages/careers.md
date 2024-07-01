@@ -93,8 +93,7 @@ sections:
       - type: FeaturedItem
         title: UI/UX Engineer
         subtitle: 'Engineering '
-        text: |
-          Contact for more info
+        text: ''
         actions: []
         colors: bg-neutral-fg-dark
         styles:
