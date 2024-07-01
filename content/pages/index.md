@@ -152,7 +152,7 @@ sections:
 slug: /
 seo:
   type: Seo
-  metaTitle: Home - Only Three Team Games
+  metaTitle: Only Three Team Games - Home
   metaDescription: Welcome to Only Three Team Games Website
   socialImage: /images/ONLYTHREETEAM.png
   metaTags: []
