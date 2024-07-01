@@ -13,7 +13,6 @@ styles:
     flexDirection: col
     textAlign: center
     borderRadius: large
-author: content/data/web.json
 featuredImage:
   type: ImageBlock
   url: /images/gmaeimge.png
@@ -22,6 +21,7 @@ featuredImage:
   styles:
     self:
       borderRadius: medium
+author: content/data/webster.json
 ---
 Step into the ring and unleash your fury in Punching Simulator! 🥊💥 Train your fists of steel, get stronger, and rise through the ranks to dominate other players! Smash through walls, take down opponents, and hone your skills in intense training sessions. Customize your fighter, earn epic rewards, and climb the leaderboards! 🌟
 
