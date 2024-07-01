@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: Update 1
-date: '2024-06-08'
+date: '2024-06-30'
 author: content/data/web.json
 excerpt: ''
 featuredImage:
