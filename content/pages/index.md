@@ -107,7 +107,7 @@ sections:
     badge:
       type: Badge
       label: Key Benefits
-      color: text-primary
+      color: text-neutral
       styles:
         self:
           textAlign: center
