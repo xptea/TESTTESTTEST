@@ -12,11 +12,9 @@ sections:
           textAlign: center
     subtitle: Section subtitle
     text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+      Our team is dedicated to working together to bring you the best gaming
+      experience. We believe in strong collaboration and open communication to
+      achieve our goals.
     actions:
       - type: Button
         label: See open positions
