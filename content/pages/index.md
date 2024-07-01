@@ -129,6 +129,7 @@ sections:
       styles:
         self:
           textAlign: center
+          fontWeight: 700
     posts:
       - content/pages/blog/update1.md
       - content/pages/blog/update2.md
