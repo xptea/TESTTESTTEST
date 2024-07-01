@@ -140,7 +140,7 @@ sections:
     elementId: ''
     variant: three-col-grid
     colors: bg-dark-fg-light
-    hoverEffect: move-up
+    hoverEffect: thin-underline
     styles:
       self:
         padding:
