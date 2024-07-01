@@ -59,7 +59,7 @@ sections:
       type: Badge
       label: Contact Us
       color: text-primary
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
 slug: contact
 isDraft: false
 seo:
