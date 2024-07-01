@@ -21,5 +21,6 @@
     ],
     "variant": "logo-centered-primary-nav-left",
     "colors": "bg-dark-fg-light",
-    "type": "Header"
+    "type": "Header",
+    "title": "Only Three Team Games"
 }
