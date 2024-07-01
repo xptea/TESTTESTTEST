@@ -8,8 +8,7 @@ sections:
       text: Only Three Team
       color: text-neutral
     subtitle: EST
-    text: |
-      Feel free to reach out to us with any questions or feedback.
+    text: ''
     actions: []
     media:
       type: FormBlock
