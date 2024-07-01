@@ -91,7 +91,7 @@ sections:
             justifyContent: center
         tagline: 'Engineering '
       - type: FeaturedItem
-        title: Open Source Engineer
+        title: UI/UX Engineer
         subtitle: 'Engineering '
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
