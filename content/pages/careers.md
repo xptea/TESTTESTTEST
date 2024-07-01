@@ -138,7 +138,7 @@ sections:
         iconPosition: right
         style: primary
     variant: toggle-list
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
