@@ -131,6 +131,7 @@ sections:
           textAlign: center
     posts:
       - content/pages/blog/update1.md
+      - content/pages/blog/update2.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
