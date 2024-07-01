@@ -154,4 +154,5 @@ seo:
   metaTitle: Careers - Only Three Team Games
   metaDescription: Careers Page - Only Three Team Games
   metaTags: []
+  socialImage: /images/ONLYTHREETEAM.png
 ---
