@@ -6,33 +6,23 @@ sections:
     title:
       type: TitleBlock
       text: A team that works closely together
-      color: text-dark
+      color: text-neutral
       styles:
         self:
           textAlign: center
-    subtitle: Section subtitle
+    subtitle: Collaboration at Its Best
     text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+      Our team is dedicated to working together to bring you the best gaming
+      experience. We believe in strong collaboration and open communication to
+      achieve our goals.
     actions:
       - type: Button
         label: See open positions
-        url: /
+        url: '#positions'
         icon: arrowRight
         iconPosition: right
         style: primary
-    colors: bg-neutral-fg-dark
-    backgroundImage:
-      type: BackgroundImage
-      url: /images/abstract-background.svg
-      altText: Placeholder image
-      backgroundSize: cover
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
@@ -51,15 +41,17 @@ sections:
     title:
       type: TitleBlock
       text: Meet the team
-      color: text-dark
+      color: text-neutral
       styles:
         self:
           textAlign: center
     people:
-      - content/data/web.json
+      - content/data/webster.json
+      - content/data/dexxter.json
+      - content/data/yummy.json
     actions: []
     variant: three-col-grid
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
@@ -73,21 +65,29 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Open positions
-      color: text-dark
+      text: Positions
+      color: text-neutral
       styles:
         self:
           textAlign: center
-    subtitle: Subtitle goes here
+    subtitle: careers
     items:
       - type: FeaturedItem
-        title: Account Executive
-        subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        actions: []
+        title: Lua-U Engineer
+        subtitle: 'Engineering '
+        text: |+
+
+
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: /contact
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -100,34 +100,48 @@ sections:
             borderRadius: x-large
             flexDirection: row
             justifyContent: center
+        tagline: 'Engineering '
       - type: FeaturedItem
-        title: Open Source Engineer
+        title: UI/UX Engineer
+        subtitle: 'Engineering '
+        text: ''
+        actions:
+          - type: Button
+            label: Contact
+            altText: ''
+            url: /contact
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            textAlign: left
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+        tagline: 'Engineering '
+      - type: FeaturedItem
+        title: Marketing
         subtitle: Marketing
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        actions: []
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            textAlign: left
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-      - type: FeaturedItem
-        title: Senior Software Engineer
-        subtitle: Engineering
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        actions: []
+        text: ''
+        actions:
+          - type: Button
+            label: Contact
+            altText: ''
+            url: /contact
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -138,15 +152,16 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
+        tagline: Marketing
     actions:
       - type: Button
         label: Apply now
-        url: /
+        url: /contact
         icon: arrowRight
         iconPosition: right
         style: primary
     variant: toggle-list
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
@@ -157,10 +172,12 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+    elementId: positions
 slug: careers
 seo:
   type: Seo
-  metaTitle: Careers - Demo site
-  metaDescription: This is the careers page built with Netlify.
+  metaTitle: Careers - Only Three Team Games
+  metaDescription: Careers Page - Only Three Team Games
   metaTags: []
+  socialImage: /images/ONLYTHREETEAM.png
 ---
