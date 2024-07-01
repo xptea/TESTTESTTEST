@@ -47,7 +47,7 @@ sections:
             - ml-0
     badge:
       type: Badge
-      label: This is a badge
+      label: EST 2024
       color: text-neutral
     elementId: ''
     colors: bg-dark-fg-light
