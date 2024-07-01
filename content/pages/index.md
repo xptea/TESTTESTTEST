@@ -36,6 +36,9 @@ sections:
       url: /images/ONLYTHREETEAM.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
+      styles:
+        self:
+          borderRadius: medium
     badge:
       type: Badge
       label: This is a badge
