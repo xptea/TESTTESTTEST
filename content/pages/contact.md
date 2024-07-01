@@ -41,6 +41,7 @@ sections:
         style: primary
         showIcon: true
       elementId: contact-form
+      netlify: true
       styles:
         self:
           padding:
