@@ -8,7 +8,7 @@ topSections:
     title:
       type: TitleBlock
       text: Featured posts
-      color: text-light
+      color: text-neutral
       styles:
         self:
           textAlign: center
