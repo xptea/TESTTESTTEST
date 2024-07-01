@@ -21,6 +21,7 @@ styles:
   self:
     flexDirection: col
     textAlign: center
+    borderRadius: large
 ---
 
 New world 🌏
