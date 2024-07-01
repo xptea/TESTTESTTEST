@@ -147,6 +147,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+    elementId: positions
 slug: careers
 seo:
   type: Seo
