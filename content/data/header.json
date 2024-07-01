@@ -2,9 +2,31 @@
     "primaryLinks": [
         {
             "type": "Link",
-            "label": "See Tutorials",
+            "label": "Home",
             "altText": "",
             "url": "/",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
+        },
+        {
+            "type": "Link",
+            "label": "Contact",
+            "altText": "",
+            "url": "/contact",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
+        },
+        {
+            "type": "Link",
+            "label": "Careers",
+            "altText": "",
+            "url": "/careers",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -14,21 +36,22 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Sign up",
-            "altText": "Sign up",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Button"
-        },
-        {
-            "label": "Log in",
-            "url": "/",
+            "label": "Discord",
+            "altText": "discord link",
+            "url": "https://discord.gg/QgKHvt76Kb",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
             "type": "Button"
+        },
+        {
+            "label": "Group",
+            "url": "https://www.roblox.com/groups/34378142",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Button",
+            "altText": "Group link"
         }
     ],
     "variant": "logo-centered-primary-nav-left",
