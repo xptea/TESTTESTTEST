@@ -1,8 +1,14 @@
 {
-    "favicon": "/images/favicon.svg",
+    "favicon": "/images/ONLYTHREETEAM.png",
     "footer": "content/data/footer.json",
-    "titleSuffix": "Theme Demo",
-    "defaultSocialImage": "/images/main-hero.jpg",
+    "titleSuffix": "Only Three Team Games",
+    "defaultSocialImage": "/images/ONLYTHREETEAM.png",
     "type": "Config",
-    "header": "content/data/header.json"
+    "header": "content/data/header.json",
+    "defaultMetaTags": [
+        {
+            "type": "MetaTag",
+            "property": ""
+        }
+    ]
 }
