@@ -80,26 +80,6 @@ sections:
     subtitle: Updates every weekend
     text: "Step into the ring and unleash your fury in Punching Simulator! \U0001F94A\U0001F4A5 Train your fists of steel, get stronger, and rise through the ranks to dominate other players! Smash through walls, take down opponents, and hone your skills in intense training sessions. Customize your fighter, earn epic rewards, and climb the leaderboards! \U0001F31F\n"
     actions: []
-    media:
-      type: VideoBlock
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
     badge:
       type: Badge
       label: Only Three Team Games
