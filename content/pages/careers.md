@@ -73,10 +73,9 @@ sections:
       - type: FeaturedItem
         title: Lua-U Engineer
         subtitle: 'Engineering '
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+          Contact for more info
+
         actions: []
         colors: bg-neutral-fg-dark
         styles:
