@@ -125,7 +125,7 @@ sections:
     title:
       type: TitleBlock
       text: List of features here
-      color: text-primary
+      color: text-neutral
       styles:
         self:
           textAlign: center
