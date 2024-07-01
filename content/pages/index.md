@@ -22,7 +22,7 @@ sections:
       - type: Link
         label: Careers
         altText: ''
-        url: /
+        url: /careers
         showIcon: true
         icon: arrowRight
         iconPosition: right
