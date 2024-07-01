@@ -20,6 +20,7 @@ colors: bg-dark-fg-light
 styles:
   self:
     flexDirection: col
+    textAlign: center
 ---
 
 New world 🌏
