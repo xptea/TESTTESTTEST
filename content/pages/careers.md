@@ -133,7 +133,7 @@ sections:
     actions:
       - type: Button
         label: Apply now
-        url: /
+        url: /contact
         icon: arrowRight
         iconPosition: right
         style: primary
