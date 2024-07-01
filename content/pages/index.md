@@ -149,6 +149,7 @@ sections:
           - pb-16
           - pr-16
         justifyContent: center
+    subtitle: New Updates Every Weekend
 slug: /
 seo:
   type: Seo
