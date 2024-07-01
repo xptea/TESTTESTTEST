@@ -156,4 +156,5 @@ seo:
   metaDescription: Welcome to Only Three Team Games Website
   socialImage: /images/ONLYTHREETEAM.png
   metaTags: []
+  addTitleSuffix: true
 ---
