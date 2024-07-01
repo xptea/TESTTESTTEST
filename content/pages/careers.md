@@ -46,8 +46,8 @@ sections:
         self:
           textAlign: center
     people:
-      - content/data/web.json
       - content/data/dexxter.json
+      - content/data/web.json
     actions: []
     variant: three-col-grid
     colors: bg-dark-fg-light
