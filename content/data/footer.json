@@ -3,6 +3,17 @@
     "socialLinks": [],
     "legalLinks": [
         {
+            "type": "Link",
+            "label": "Home",
+            "altText": "",
+            "url": "/",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
+        },
+        {
             "label": "Terms",
             "url": "/",
             "icon": "arrowRight",
@@ -17,17 +28,6 @@
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
-        },
-        {
-            "type": "Link",
-            "label": "Home",
-            "altText": "",
-            "url": "/",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
         },
         {
             "type": "Link",
