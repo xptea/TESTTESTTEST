@@ -13,7 +13,6 @@ topSections:
         self:
           textAlign: center
     posts:
-      - content/pages/blog/surround-yourself-with-right-people.md
       - content/pages/blog/update1.md
     showThumbnail: true
     showExcerpt: true
