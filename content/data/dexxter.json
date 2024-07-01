@@ -22,7 +22,7 @@
     "image": {
         "type": "ImageBlock",
         "url": "/images/ONLYTHREETEAM.png",
-        "altText": "Image alt text placeholder",
+        "altText": "Icon",
         "elementId": "",
         "styles": {
             "self": {
