@@ -7,6 +7,9 @@ sections:
       type: TitleBlock
       text: Only Three Team Games
       color: text-neutral
+      styles:
+        self:
+          fontWeight: 700
     subtitle: Game Updates every weekend
     text: ''
     actions:
@@ -19,11 +22,11 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
-      - type: Link
+      - type: Button
         label: Careers
         altText: ''
         url: /careers
-        showIcon: true
+        showIcon: false
         icon: arrowRight
         iconPosition: right
         style: secondary
@@ -77,6 +80,7 @@ sections:
       styles:
         self:
           textAlign: center
+          fontWeight: 700
     subtitle: Updates every weekend
     text: "Step into the ring and unleash your fury in Punching Simulator! \U0001F94A\U0001F4A5 Train your fists of steel, get stronger, and rise through the ranks to dominate other players! Smash through walls, take down opponents, and hone your skills in intense training sessions. Customize your fighter, earn epic rewards, and climb the leaderboards! \U0001F31F\n"
     actions:
@@ -129,6 +133,7 @@ sections:
       styles:
         self:
           textAlign: center
+          fontWeight: 700
     posts:
       - content/pages/blog/update1.md
       - content/pages/blog/update2.md
@@ -140,7 +145,7 @@ sections:
     elementId: ''
     variant: three-col-grid
     colors: bg-dark-fg-light
-    hoverEffect: move-up
+    hoverEffect: thin-underline
     styles:
       self:
         padding:
@@ -149,6 +154,9 @@ sections:
           - pb-16
           - pr-16
         justifyContent: center
+      subtitle:
+        textAlign: center
+    subtitle: New Updates Every Weekend
 slug: /
 seo:
   type: Seo
