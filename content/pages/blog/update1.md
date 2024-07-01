@@ -10,7 +10,7 @@ isDraft: false
 colors: bg-light-fg-dark
 styles:
   self:
-    flexDirection: row
+    flexDirection: col
     textAlign: center
     borderRadius: large
 author: content/data/web.json
