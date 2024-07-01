@@ -43,7 +43,7 @@ sections:
             - pb-0
           margin:
             - mr-0
-            - ml-0
+            - ml-64
     badge:
       type: Badge
       label: EST 2024
