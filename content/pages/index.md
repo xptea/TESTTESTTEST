@@ -46,7 +46,7 @@ sections:
             - ml-64
     badge:
       type: Badge
-      label: EST 2024
+      label: EST. 2024
       color: text-neutral
     elementId: ''
     colors: bg-dark-fg-light
