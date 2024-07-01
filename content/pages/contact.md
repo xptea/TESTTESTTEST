@@ -36,9 +36,10 @@ sections:
       submitButton:
         type: SubmitButtonFormControl
         label: Submit
-        icon: arrowRight
+        icon: send
         iconPosition: right
         style: primary
+        showIcon: true
       elementId: contact-form
       styles:
         self:
