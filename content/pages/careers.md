@@ -112,9 +112,7 @@ sections:
       - type: FeaturedItem
         title: Marketing
         subtitle: Marketing
-        text: |+
-          Contact for more info
-
+        text: ''
         actions:
           - type: Button
             label: Contact
