@@ -92,7 +92,7 @@ sections:
       - type: Button
         label: Get started
         altText: ''
-        url: /
+        url: 'https://www.roblox.com/games/17661817975'
         showIcon: false
         icon: arrowRight
         iconPosition: right
