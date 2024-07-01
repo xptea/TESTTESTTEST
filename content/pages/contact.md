@@ -30,7 +30,7 @@ sections:
         - type: SelectFormControl
           name: company-size
           label: Positions
-          hideLabel: true
+          hideLabel: false
           defaultValue: Please choose...
           options:
             - Lua-U Engineer
