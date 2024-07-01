@@ -72,7 +72,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Lua-U Engineer
-        subtitle: Sales
+        subtitle: 'Engineering '
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
