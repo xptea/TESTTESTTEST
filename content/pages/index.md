@@ -59,7 +59,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: 'Apply here (fef)[e]'
+    subtitle: Apply here
     items:
       - type: FeaturedItem
         title: 500k
