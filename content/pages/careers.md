@@ -46,7 +46,6 @@ sections:
         self:
           textAlign: center
     people:
-      - content/data/dexxter.json
       - content/data/web.json
     actions: []
     variant: three-col-grid
