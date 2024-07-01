@@ -153,7 +153,7 @@ slug: /
 seo:
   type: Seo
   metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create
+  metaDescription: Welcome to Only
   socialImage: /images/ONLYTHREETEAM.png
   metaTags: []
 ---
