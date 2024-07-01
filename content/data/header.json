@@ -50,7 +50,8 @@
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
-            "type": "Button"
+            "type": "Button",
+            "altText": "Group link"
         }
     ],
     "variant": "logo-centered-primary-nav-left",
