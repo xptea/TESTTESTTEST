@@ -153,7 +153,7 @@ slug: /
 seo:
   type: Seo
   metaTitle: Home - Demo site
-  metaDescription: Welcome to Only
+  metaDescription: Welcome to Only Three Team Games Website
   socialImage: /images/ONLYTHREETEAM.png
   metaTags: []
 ---
