@@ -9,6 +9,9 @@
         {
             "type": "MetaTag",
             "property": ""
+        },
+        {
+            "type": "MetaTag"
         }
     ]
 }
