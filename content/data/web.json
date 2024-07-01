@@ -5,7 +5,7 @@
     "image": {
         "type": "ImageBlock",
         "url": "/images/ONLYTHREETEAM.png",
-        "altText": "First Last",
+        "altText": "Web",
         "styles": {
             "self": {
                 "borderRadius": "medium",
