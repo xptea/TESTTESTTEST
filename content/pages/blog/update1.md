@@ -9,12 +9,6 @@ bottomSections: []
 slug: Update1
 isFeatured: false
 isDraft: false
-seo:
-  type: Seo
-  metaTitle: lorem-ipsum
-  metaDescription: lorem-ipsum
-  addTitleSuffix: false
-  metaTags: []
 colors: bg-neutralAlt-fg-dark
 styles:
   self:
