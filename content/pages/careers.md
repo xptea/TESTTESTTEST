@@ -71,7 +71,7 @@ sections:
     subtitle: careers
     items:
       - type: FeaturedItem
-        title: Account Executive
+        title: Lua-U Developer
         subtitle: Sales
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
