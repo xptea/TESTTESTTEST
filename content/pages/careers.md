@@ -90,7 +90,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
             justifyContent: center
-        tagline: Engineering
+        tagline: 'Engineering '
       - type: FeaturedItem
         title: Open Source Engineer
         subtitle: Marketing
