@@ -33,6 +33,14 @@ sections:
           hideLabel: true
           placeholder: Your message
           width: full
+        - type: SelectFormControl
+          name: company-size
+          label: Company size
+          hideLabel: false
+          defaultValue: Please choose...
+          options: []
+          isRequired: false
+          width: full
       submitButton:
         type: SubmitButtonFormControl
         label: Submit
