@@ -85,7 +85,7 @@ sections:
         altText: ''
         url: 'https://www.roblox.com/games/17661817975'
         showIcon: true
-        icon: arrowRight
+        icon: play
         iconPosition: right
         style: secondary
         elementId: ''
