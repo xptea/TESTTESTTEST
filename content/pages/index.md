@@ -72,7 +72,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Grow your business 10x faster
+      text: Punching Simulator
       color: text-neutral
       styles:
         self:
