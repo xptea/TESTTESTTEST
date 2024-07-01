@@ -13,7 +13,6 @@ styles:
     flexDirection: col
     textAlign: center
     borderRadius: large
-author: content/data/web.json
 featuredImage:
   type: ImageBlock
   url: /images/gmaeimge.png
