@@ -21,6 +21,7 @@ styles:
     flexDirection: col
     textAlign: center
     borderRadius: large
+author: content/data/webster.json
 ---
 
 New world 🌏
