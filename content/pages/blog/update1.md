@@ -15,7 +15,7 @@ author: content/data/web.json
 featuredImage:
   type: ImageBlock
   url: /images/gmaeimge.png
-  altText: Image alt text placeholder
+  altText: Image
   elementId: ''
   styles:
     self:
