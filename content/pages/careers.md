@@ -152,6 +152,6 @@ slug: careers
 seo:
   type: Seo
   metaTitle: Careers - Only Three Team Games
-  metaDescription: This is the careers page built with Netlify.
+  metaDescription: Careers Page - Only Three Team Games
   metaTags: []
 ---
