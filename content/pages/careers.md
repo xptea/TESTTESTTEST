@@ -96,7 +96,7 @@ sections:
         text: ''
         actions:
           - type: Button
-            label: Get started
+            label: Contact
             altText: ''
             url: /contact
             showIcon: false
