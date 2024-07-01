@@ -41,6 +41,8 @@ sections:
           borderRadius: medium
           padding:
             - pr-7
+          margin:
+            - mr-10
     badge:
       type: Badge
       label: This is a badge
