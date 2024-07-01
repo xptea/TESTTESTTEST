@@ -7,6 +7,9 @@ sections:
       type: TitleBlock
       text: Only Three Team Games
       color: text-neutral
+      styles:
+        self:
+          fontWeight: 700
     subtitle: Game Updates every weekend
     text: ''
     actions:
