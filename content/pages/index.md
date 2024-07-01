@@ -34,7 +34,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/ONLYTHREETEAM.png
-      altText: Unblock your team boost your time to production preview
+      altText: icon
       elementId: ''
       styles:
         self:
