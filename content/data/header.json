@@ -37,7 +37,7 @@
     "secondaryLinks": [
         {
             "label": "Discord",
-            "altText": "Sign up",
+            "altText": "discord link",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
