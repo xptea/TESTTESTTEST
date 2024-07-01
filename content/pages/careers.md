@@ -45,7 +45,8 @@ sections:
       styles:
         self:
           textAlign: center
-    people: []
+    people:
+      - content/data/webster.json
     actions: []
     variant: three-col-grid
     colors: bg-dark-fg-light
