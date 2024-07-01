@@ -1,7 +1,7 @@
 {
     "favicon": "/images/ONLYTHREETEAM.png",
     "footer": "content/data/footer.json",
-    "titleSuffix": "Theme Demo",
+    "titleSuffix": "Only Three Team Games",
     "defaultSocialImage": "/images/ONLYTHREETEAM.png",
     "type": "Config",
     "header": "content/data/header.json",
